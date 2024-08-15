@@ -11,15 +11,24 @@
             "id": "5eac2c7ae5774be0",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "f28f61806a66fc92",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "React/Første react.md",
+                "file": "Readme.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/Første react.md",
+                "file": "Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/Første react.md",
+                "file": "Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/Første react.md"
+                "file": "Readme.md"
               }
             }
           }
@@ -146,8 +155,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5eac2c7ae5774be0",
+  "active": "f28f61806a66fc92",
   "lastOpenFiles": [
+    "Readme.md",
     "React/Første react.md",
     "React",
     "It-sikkerhed/IT-sikkerhed fundamentals.md",
@@ -157,12 +167,10 @@
     "2024-08-15.md",
     "It-sikkerhed/ny.md",
     "it-sikkerhed/ny.md",
-    "Untitled.md",
     "It-sikkerhed/hej.md",
     "it-sikkerhed/hej.md",
     "it-sikkerhed.hej.md",
     "hej.md",
-    "React",
     "www.nfl.com.md",
     "Hej.md"
   ]
