@@ -11,8 +11,12 @@
             "id": "5eac2c7ae5774be0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "React/Første react.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "React/Første react.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "React/Første react.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "React/Første react.md"
+              }
             }
           }
         ]
@@ -140,6 +148,8 @@
   },
   "active": "5eac2c7ae5774be0",
   "lastOpenFiles": [
+    "React/Første react.md",
+    "React",
     "It-sikkerhed/IT-sikkerhed fundamentals.md",
     "It-sikkerhed",
     "README.md",
