@@ -1,4 +1,6 @@
 import { NavLink, Outlet } from "react-router-dom";
+import AnimatedLayout from "../Components/AnimatedLayout";
+import AnimatedOutlet from "../Components/AnimatedOutlet";
 
 const SubPage = ({ path }) => {
 	return (
@@ -42,7 +44,7 @@ const SubPage = ({ path }) => {
 				</div>
 			</nav>
 			<div className="max-w-7xl mx-auto py-6 sm:px-6 lg:px-8">
-				<Outlet />
+				<AnimatedOutlet />
 			</div>
 		</div>
 	);
