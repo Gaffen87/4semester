@@ -1,10 +1,16 @@
 import ReactMarkdown from "react-markdown";
 import { Prism as SyntaxHighlighter } from "react-syntax-highlighter";
 import { atomDark as style } from "react-syntax-highlighter/dist/cjs/styles/prism";
+import { motion } from "framer-motion";
 
 const Md = ({ post }) => {
 	return (
-		<div className="flex flex-col items-center">
+		<motion.div
+			className="flex flex-col items-center duration-1000"
+			initial={{ opacity: 0 }}
+			whileInView={{ opacity: 1 }}
+			transition={{ delay: 0.1, duration: 1 }}
+		>
 			<ReactMarkdown
 				className="max-w-sm sm:max-w-full bg-gray-100 bg-opacity-85 backdrop-blur mb-4 rounded-md p-8 prose-lg prose-a:text-blue-500 prose-a:underline prose-ul:list-disc"
 				components={{
@@ -29,7 +35,7 @@ const Md = ({ post }) => {
 			>
 				{post}
 			</ReactMarkdown>
-		</div>
+		</motion.div>
 	);
 };
 
