@@ -1,0 +1,13 @@
+## <span style="color:rgb(0, 112, 192)">Hvad vil jeg gerne opnå viden om i den næste 14. dags periode?</span>
+
+
+## <span style="color:rgb(0, 112, 192)">Hvilke læringsaktiviteter vil jeg planlægge for at jeg kan opnå denne læring?</span>
+
+
+## <span style="color:rgb(0, 112, 192)">Hvordan kan jeg se om jeg når mine mål?</span>
+
+
+## <span style="color:rgb(0, 112, 192)">Hvilke aktiviteter gennemførte jeg i perioden?</span>
+
+
+## <span style="color:rgb(0, 112, 192)">Hvad lærte jeg i perioden?</span>

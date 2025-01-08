@@ -1,3 +1,9 @@
 {
-  "accentColor": ""
+  "accentColor": "",
+  "theme": "system",
+  "textFontFamily": "Cascadia Mono",
+  "enabledCssSnippets": [
+    "style"
+  ],
+  "cssTheme": ""
 }
